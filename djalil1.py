@@ -157,6 +157,29 @@ except ModuleNotFoundError:
     os.system('python VIPERS.py')
 
 #------------------[  Ua  ]-------------------#  
+def menu():
+    os.system("clear")
+    print("\n====================")
+    print("     MK-DJALIL")
+    print("====================")
+    print("[1] START TOOL")
+    print("[2] OPEN TELEGRAM")
+    print("[0] EXIT\n")
+
+    choice = input("[MK-DJALIL] > ")
+
+    if choice == "1":
+        ua10()
+    elif choice == "2":
+        os.system("xdg-open https://t.me/alg_trimex")
+    elif choice == "0":
+        exit()
+    else:
+        print("Wrong Input!")
+        time.sleep(1)
+        menu()
+
+menu()
 def ua1():
     alex1 = str(random.randint(100,400))+".0.0."+str(random.randint(1,8))+"."+str(random.randint(40,150))
     alex9 = str(random.randint(200,400))+".0.0."+str(random.randint(7,37))+"."+str(random.randint(101,151))
