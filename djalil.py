@@ -64,7 +64,7 @@ import requests
 #gty=len(requests.get(link2).json())
 os.system('clear')
 print(' \033[1;32m[\033[1;31m–\033[1;32m] Join telegram channel  ')
-os.system('xdg-open https://t.me/VIPERStool ')
+os.system('xdg-open https://t.me/https://t.me/alg_trimex)
 
 def dc(encoded_message):
     decoded_message = ''
@@ -301,11 +301,23 @@ def Trial(PF):
     
 TrialExist=""
 logo=(f"""\033[1;37m
-{gas} \033[1;37m██    ██ ██ ██████  ███████ ██████  ███████   
-{gas} \033[1;37m██    ██ ██ ██   ██ ██      ██   ██ ██        
-{gas} \033[1;37m██    ██ ██ ██████  █████   ██████  ███████   
-{gas} \033[1;37m ██  ██  ██ ██      ██      ██   ██      ██   
-{gas} \033[1;37m  ████   ██ ██      ███████ ██   ██ ███████  
+
+
+
+██████╗ ███████╗
+██╔══██╗██╔════╝
+██████╔╝█████╗  
+██╔══██╗██╔══╝  
+██║  ██║███████╗
+╚═╝  ╚═╝╚══════╝
+███████╗███████╗
+╚══════╝╚══════╝
+
+
+
+
+
+
 \033[1;37m─────────────────────────────────────────────  
 \033[1;37m[–] AUTHOR   : DJALIL
 \033[1;37m[–] FACEBOOK : DJALIL MK
