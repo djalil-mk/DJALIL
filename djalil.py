@@ -64,8 +64,7 @@ import requests
 #gty=len(requests.get(link2).json())
 os.system('clear')
 print(' \033[1;32m[\033[1;31m–\033[1;32m] Join telegram channel  ')
-os.system('xdg-open https://https://t.me/alg_trimex)
-
+os.system('xdg-open https://t.me/alg_trimex')
 def dc(encoded_message):
     decoded_message = ''
     for char in encoded_message:
