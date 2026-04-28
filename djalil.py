@@ -1,7 +1,3 @@
-# Decompiled with PyLingual (https://pylingual.io)
-# Internal filename: 'djalil.py'
-# Bytecode version: 3.12.0rc2 (3531)
-# Source timestamp: 2025-11-26 19:56:12 UTC (1764186972)
 
 global TrialExist
 global sim_id
